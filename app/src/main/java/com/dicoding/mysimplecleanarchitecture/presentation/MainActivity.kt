@@ -26,4 +26,5 @@ class MainActivity : AppCompatActivity() {
             binding.tvWelcome.text = it.welcomeMessage
         })
     }
+
 }
